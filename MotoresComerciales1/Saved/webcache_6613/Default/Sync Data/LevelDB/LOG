@@ -1,2 +1,3 @@
-2026/05/12-08:35:35.291 66a8 Creating DB A:\Proyectos\motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/12-08:35:35.305 66a8 Reusing MANIFEST A:\Proyectos\motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/14-08:03:32.209 19cc Reusing MANIFEST A:\Proyectos\motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/14-08:03:32.213 19cc Recovering log #3
+2026/05/14-08:03:32.213 19cc Reusing old log A:\Proyectos\motores-comerciales-1\MotoresComerciales1\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
