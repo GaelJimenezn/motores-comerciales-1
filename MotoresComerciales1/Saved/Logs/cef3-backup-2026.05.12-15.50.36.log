@@ -1,6 +1,0 @@
-[25320:2916:0512/084132.166:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[25320:2916:0512/084132.249:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25448:25100:0512/084139.701:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-76484813A61C97B8D27E56A7F2C286AB will be ignored
-[25320:27364:0512/084144.770:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[25320:2916:0512/095035.708:ERROR:device_event_log_impl.cc(196)] [09:50:35.665] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[25320:2916:0512/095036.032:ERROR:device_event_log_impl.cc(196)] [09:50:35.745] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
